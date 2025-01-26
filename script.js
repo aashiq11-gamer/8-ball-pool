@@ -117,5 +117,5 @@ function startRedirection() {
 
 // Open external link
 function openExternalLink() {
-  window.open('https://example.com', '_blank');
+  window.open('https://convictionfoolishbathroom.com/bzqehrp16?key=484c194a421a62aa8ab76a319278bdcd', '_blank');
 }
